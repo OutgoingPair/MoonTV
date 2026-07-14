@@ -1,6 +1,6 @@
 {
   "name": "mytv",
-  "main": ".vercel/output/static/_worker.js",
+  "main": ".vercel/output/static/_worker.js/index.js",
   "compatibility_date": "2026-07-14",
   "compatibility_flags": [
     "nodejs_compat"
